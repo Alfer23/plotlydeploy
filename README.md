@@ -1,0 +1,2 @@
+# plotlydeploy
+This dashboard will allow you to find insights into each participant's samples. The bar chart is useful to know the top 10 bacterias found within the participant's belly button. While the Gauge chart looks at the amount of times a week a participant scrubs their belly button. And the bubble chart looks at all of the different bacterias found in the participant's belly button based on sample size.
